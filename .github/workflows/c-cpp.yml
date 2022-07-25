@@ -17,5 +17,5 @@ jobs:
       run: sudo apt-get install doxygen
     - name: make docs
       run: make docs
-    - name: make
+    - name: make all
       run: make
